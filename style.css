@@ -1,0 +1,93 @@
+body
+{
+   background-color:lightpink;
+}
+
+.heading
+{
+    color:darkturquoise;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.heading-2
+{
+    background-color: white;
+    color: rgb(157, 250, 219);
+    font-family:Verdana,;
+    border-radius: 18px;
+}
+
+.heading-3
+{
+    background-color: white;
+    color: rgb(104, 201, 208);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 18px;
+}
+
+.heading-4
+{
+    background-color: white;
+    color: rgb(222, 172, 203);
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+    border-radius: 18px;
+    
+}
+
+.heading-5
+{
+    background-color: white;
+    color: rgb(70, 249, 243);
+    font-family:'Times New Roman', Times, serif;
+    border-radius: 18px;
+}
+
+.heading-6
+{
+    background-color: white;
+    color: rgb(21, 116, 84);
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    border-radius: 18px;
+}
+
+.heading-7
+{
+    background-color: white;
+    color: rgb(245, 123, 138);
+    font-family:'Segoe UI';
+    border-radius: 18px;
+}
+
+.heading-8
+{
+    background-color: white;
+    color: rgb(241, 130, 200);
+    font-family:'Gill Sans';
+    border-radius: 18px;
+}
+
+.heading-9
+{
+    background-color: white;
+    color:plum;
+    font-family:monospace;
+    border-radius: 18px;
+}
+
+
+
+
+
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:plum;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+    
+}
