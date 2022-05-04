@@ -74,11 +74,6 @@ body
     border-radius: 18px;
 }
 
-
-
-
-
-
 .copy_right_footer
 {
     position: fixed;
@@ -90,4 +85,11 @@ body
     text-align: center;
     font-family: Verdana, Tahoma, sans-serif;
     
+}
+
+.heading_statement
+{
+    border-radius: 20px;
+    background-color: plum;
+    color: rgb(238, 82, 147);
 }
